@@ -1,1 +1,9 @@
-﻿
+﻿Ja sam Bazna
+
+Ja sam izvedena
+
+Ja sam izvedena2
+
+GOTOVO!!!
+
+Poziva se "najizvedenija" metoda.

@@ -14,14 +14,20 @@ namespace Vsite.CSharp
 
     class Izvedena : Bazna
     {
-        // TODO: pregaziti virtualnu metodu PredstaviSe tako da ispiše ime klase
-
+        // pregaziti virtualnu metodu PredstaviSe tako da ispiše ime klase
+        public override void PredstaviSe()
+        {
+            Console.WriteLine("Ja sam izvedena");
+        }
     }
 
     class Izvedena2 : Bazna
     {
-        // TODO: pregaziti virtualnu metodu PredstaviSe tako da ispiše ime klase
-
+        // pregaziti virtualnu metodu PredstaviSe tako da ispiše ime klase
+        public override void PredstaviSe()
+        {
+            Console.WriteLine("Ja sam izvedena2");
+        }
     }
 
     class Program
@@ -29,7 +35,7 @@ namespace Vsite.CSharp
 
         static void Main(string[] args)
         {
-            // TODO: Izvesti program, ispis prekopirati u datoteku Virtualne.txt te dopisati obrazloženje
+            // Izvesti program, ispis prekopirati u datoteku Virtualne.txt te dopisati obrazloženje
             Bazna[] bazne = new Bazna[] { new Bazna(), new Izvedena(), new Izvedena2()};
             foreach (Bazna b in bazne)
             {
