@@ -26,7 +26,7 @@ namespace Vsite.CSharp
             double d1 = 3;
             double d2 = 4;
 
-            // TODO: Provjeriti koje će metode biti pozvane u donjim pozivima
+            // Provjeriti koje će metode biti pozvane u donjim pozivima
 
             MojaMetoda(i1, i2);
             MojaMetoda(i1, d1);
