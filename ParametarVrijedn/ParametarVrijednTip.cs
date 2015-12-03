@@ -13,7 +13,7 @@ namespace Vsite.CSharp
 
         static void Main(string[] args)
         {
-            // TODO: Pokrenuti program, ispis prekopirati u datoteku ParametarVrijedn.txt te u njoj dopisati obrazloženje rezultata
+            // Pokrenuti program, ispis prekopirati u datoteku ParametarVrijedn.txt te u njoj dopisati obrazloženje rezultata
 
             int n = 5;
             Console.WriteLine("Prije metode Uvećaj: {0}", n);

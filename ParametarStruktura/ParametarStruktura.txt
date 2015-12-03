@@ -1,1 +1,6 @@
-﻿
+﻿Prije metode Uvecaj: 20
+U metodi Uvecaj: 21
+Nakon metode Uvecaj: 20
+GOTOVO!!!
+
+Metoda će dobiti kopiju, a ne referencu.
