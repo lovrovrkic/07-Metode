@@ -1,1 +1,6 @@
-﻿
+﻿Prije metode Uvecaj: 10
+U metodi Uvecaj: 11
+Nakon metode Uvecaj: 11
+GOTOVO!!!
+
+Funkcija Uvećaj prima referencu na objekt, te nakon metode promijenjena vrijednost ostaje promijenjena.

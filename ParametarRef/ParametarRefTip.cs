@@ -19,7 +19,7 @@ namespace Vsite.CSharp
 
         static void Main(string[] args)
         {
-            // TODO: Pokrenuti program, ispis prekopirati u datoteku ParametarRefTip.txt te u njoj dopisati obrazloženje rezultata
+            // Pokrenuti program, ispis prekopirati u datoteku ParametarRefTip.txt te u njoj dopisati obrazloženje rezultata
 
             MojaKlasa mk = new MojaKlasa();
             Console.WriteLine("Prije metode Uvećaj: {0}", mk.N);
