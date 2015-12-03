@@ -1,1 +1,6 @@
-﻿
+﻿Prije metode Uvecaj: 5
+U metodi Uvecaj: 6
+Nakon metode Uvecaj: 5
+GOTOVO!!!
+
+Za vrijednosne parametre funkcija stvara kopiju, a ne referencu.
