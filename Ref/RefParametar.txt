@@ -1,1 +1,4 @@
-﻿
+﻿Prije metode DodajDeset: 5
+Unutar metode DodajDeset: 15
+Nakon metode DodajDeset: 15
+GOTOVO!!!
